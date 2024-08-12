@@ -1,0 +1,850 @@
+﻿ <!DOCTYPE html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.fpsc.gov.pk/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width" />
+<link rel="alternate" type="application/rss+xml" title="Federal Public Service Commission RSS" href="https://www.fpsc.gov.pk/rss.xml" />
+<title>Federal Public Service Commission</title>
+<style type="text/css" media="all">
+@import url("https://www.fpsc.gov.pk/modules/system/system.base.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/modules/system/system.menus.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/modules/system/system.messages.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/modules/system/system.theme.css?rc4kj0");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.fpsc.gov.pk/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/views_slideshow/views_slideshow.css?rc4kj0");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.fpsc.gov.pk/modules/comment/comment.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/date/date_api/date.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/modules/field/theme/field.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/google_cse/google_cse.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/modules/node/node.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/modules/search/search.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/modules/user/user.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/modules/forum/forum.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/views/css/views.css?rc4kj0");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.fpsc.gov.pk/sites/all/modules/accordion_blocks/accordion_init.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/ctools/css/ctools.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/panels/css/panels.css?rc4kj0");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<style type="text/css" media="all">
+@import url("https://www.fpsc.gov.pk/sites/all/modules/tb_megamenu/css/bootstrap.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/tb_megamenu/css/base.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/tb_megamenu/css/default.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/tb_megamenu/css/compatibility.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/tb_megamenu/css/styles/green.css?rc4kj0");
+</style>
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.tb-megamenu.animate .mega > .mega-dropdown-menu,.tb-megamenu.animate.slide .mega > .mega-dropdown-menu > div{transition-delay:0ms;-webkit-transition-delay:0ms;-ms-transition-delay:0ms;-o-transition-delay:0ms;transition-duration:100ms;-webkit-transition-duration:100ms;-ms-transition-duration:100ms;-o-transition-duration:100ms;}
+
+/*]]>*/-->
+</style>
+<style type="text/css" media="all">
+@import url("https://www.fpsc.gov.pk/sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/views_slideshow_cycle.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/views_ticker/views.ticker.scroller.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/panels/plugins/layouts/threecol_33_34_33/threecol_33_34_33.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/default/files/ctools/css/8cc3d26bf7694df54dc0bd4c091e798f.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/quicktabs/css/quicktabs.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/modules/quicktabs/quicktabs_tabstyles/tabstyles/garland/garland.css?rc4kj0");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.fpsc.gov.pk/sites/all/themes/professional_theme/style.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/all/themes/professional_theme/responsive.css?rc4kj0");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.fpsc.gov.pk/sites/default/files/fontyourface/wysiwyg.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/default/files/fontyourface/font.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/default/files/fontyourface/local_fonts/Oswald_Regular-normal-normal/stylesheet.css?rc4kj0");
+@import url("https://www.fpsc.gov.pk/sites/default/files/fontyourface/local_fonts/pdms-normal-normal/stylesheet.css?rc4kj0");
+</style>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/misc/drupal.js?rc4kj0"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/views_slideshow/js/views_slideshow.js?v=1.0"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/google_cse/google_cse.js?rc4kj0"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/misc/progress.js?rc4kj0"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/accordion_blocks/accordion_init.js?rc4kj0"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/views_slideshow_ddblock/js/formoptions.js?rc4kj0"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/tb_megamenu/js/tb-megamenu-frontend.js?rc4kj0"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/tb_megamenu/js/tb-megamenu-touch.js?rc4kj0"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/libraries/jquery.cycle/jquery.cycle.all.min.js?rc4kj0"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/js/views_slideshow_cycle.js?rc4kj0"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/views_ticker/js/views.ticker.scroller.js?rc4kj0"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/google_analytics/googleanalytics.js?rc4kj0"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-103227451-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/modules/quicktabs/js/quicktabs.js?rc4kj0"></script>
+<script type="text/javascript" src="http://servant.indexisto.com/files/searchbox/searchbox.nocache.js?type=edit"></script>
+<script type="text/javascript" src="//use.edgefonts.net/open-sans:n7,n4,n6.js"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/themes/professional_theme/js/custom.js?rc4kj0"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/themes/professional_theme/js/jquery.flexslider-min.js?rc4kj0"></script>
+<script type="text/javascript" src="https://www.fpsc.gov.pk/sites/all/themes/professional_theme/js/slide.js?rc4kj0"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"professional_theme","theme_token":"JOk6znDeZPmM7ycuRGbQ7qFHwKMKtUqoLfiLfoBHpgE","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"misc\/progress.js":1,"sites\/all\/modules\/accordion_blocks\/accordion_init.js":1,"sites\/all\/modules\/views_slideshow_ddblock\/js\/formoptions.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.min.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/views_ticker\/js\/views.ticker.scroller.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/quicktabs\/js\/quicktabs.js":1,"http:\/\/servant.indexisto.com\/files\/searchbox\/searchbox.nocache.js?type=edit":1,"\/\/use.edgefonts.net\/open-sans:n7,n4,n6.js":1,"sites\/all\/themes\/professional_theme\/js\/custom.js":1,"sites\/all\/themes\/professional_theme\/js\/jquery.flexslider-min.js":1,"sites\/all\/themes\/professional_theme\/js\/slide.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/accordion_blocks\/accordion_init.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"sites\/all\/modules\/tb_megamenu\/css\/styles\/green.css":1,"0":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/modules\/views_ticker\/views.ticker.scroller.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/threecol_33_34_33\/threecol_33_34_33.css":1,"public:\/\/ctools\/css\/8cc3d26bf7694df54dc0bd4c091e798f.css":1,"sites\/all\/modules\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/modules\/quicktabs\/quicktabs_tabstyles\/tabstyles\/garland\/garland.css":1,"sites\/all\/themes\/professional_theme\/style.css":1,"sites\/all\/themes\/professional_theme\/responsive.css":1,"sites\/default\/files\/fontyourface\/wysiwyg.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"public:\/\/fontyourface\/local_fonts\/Oswald_Regular-normal-normal\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/pdms-normal-normal\/stylesheet.css":1}},"googleCSE":{"cx":"","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":1},"viewsSlideshow":{"slider_view-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowControls":{"slider_view-block_1":{"bottom":{"type":"viewsSlideshowControlsText"}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_slider_view-block_1":{"num_divs":1,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"slider_view-block_1","effect":"fade","transition_advanced":1,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/":true},"quicktabs":{"qt_quicktabs":{"name":"quicktabs","tabs":[{"bid":"block_delta_13","hide_title":1},{"bid":"block_delta_9","hide_title":1},{"bid":"views_delta_latest_jobs_homepage-block_1","hide_title":1},{"bid":"block_delta_18","hide_title":1},{"bid":"block_delta_19","hide_title":1},{"bid":"block_delta_20","hide_title":1},{"bid":"block_delta_21","hide_title":1},{"bid":"block_delta_22","hide_title":1},{"bid":"block_delta_23","hide_title":1}],"googleCSE":{"cx":"","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":1}}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html front not-logged-in no-sidebars page-node i18n-en">
+    
+<div id="wrapper">
+  <header id="header" role="banner">
+    <div id="logo"><a href="/" title="Home"><img src="https://www.fpsc.gov.pk/sites/default/files/NEW1.png"/></a></div>    <h1 id="site-title"><a href="/" title="Home">Federal Public Service Commission</a></h1>              <div class="search-box">
+        <div class="region region-sadam-search-box">
+  <div id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-boqG-PeqrEVEytLeJFWIm6tQWsYbYX_OryjLODgOf4w" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </div>  <!-- /#sidebar-right -->
+            
+    <div class="clear"></div>
+        <div id="tb_menu">
+     <div class="region region-tb-menu">
+  <div id="block-tb-megamenu-main-menu" class="block block-tb-megamenu">
+
+      
+  <div class="content">
+    <div  data-duration="100" data-delay="0" id="tb-megamenu-main-menu" class="tb-megamenu tb-megamenu-main-menu style-green animate slide">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="fa fa-reorder"></i>
+    </button>
+    <div class="nav-collapse ">
+    <ul  class="tb-megamenu-nav nav level-0 items-19">
+  <li  data-id="653" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega active active-trail">
+  <a href="/"  title="Home">
+        
+    Home          </a>
+  </li>
+
+<li  data-id="2011" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/ge"  title="General Recruitment Examinations (GR)">
+        
+    GR Exams          </a>
+  </li>
+
+<li  data-id="2012" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/ce"  title="Competitive Examination (CSS)">
+        
+    CSS Exams          </a>
+  </li>
+
+<li  data-id="2013" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/oe"  title="Section Officer Promotional Examination (SOPE), Survey of Pakistan (SuOP), Final Passing Out Examination (FPOE)">
+        
+    Other Exams          </a>
+  </li>
+
+<li  data-id="313" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/publications"  title="About Publications">
+        
+    Publications          </a>
+  </li>
+
+<li  data-id="550" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+  <a href="/downloads"  class="dropdown-toggle" title="Downloads">
+        
+    Downloads          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-1" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+  <li  data-id="575" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/downloads/forms"  title="Forms">
+        
+    Forms          </a>
+  </li>
+
+<li  data-id="574" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/downloads/general-instructions"  title="General Instructions">
+        
+    General Instructions          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="2007" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="/about/recruitment-rules"  title="Recruitment Rules">
+        
+    Recruitment Rules          </a>
+  </li>
+
+<li  data-id="551" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+  <a href="/about"  class="dropdown-toggle" title="About Us">
+        
+    About Us          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-3" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-6">
+  <li  data-id="2126" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/about/budgetary-details"  title="Budget details">
+        
+    Budgetary Details          </a>
+  </li>
+
+<li  data-id="1145" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/about/fpsc-members"  title="FPSC Commission">
+        
+    FPSC Commission          </a>
+  </li>
+
+<li  data-id="562" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/about/fpsc-officers"  title="FPSC Officers">
+        
+    FPSC Officers          </a>
+  </li>
+
+<li  data-id="553" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/about/about-fpsc"  title="About FPSC">
+        
+    About FPSC          </a>
+  </li>
+
+<li  data-id="563" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/about/policies"  title="Policies">
+        
+    Policies          </a>
+  </li>
+
+<li  data-id="1151" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropdown-submenu">
+  <a href="/about/departments"  class="dropdown-toggle" title="Departments">
+        
+    Departments          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-2" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+  <li  data-id="1152" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/about/departments/legal-wing"  title="Legal Wing">
+        
+    Legal Wing          </a>
+  </li>
+
+<li  data-id="1154" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/about/departments/psychological-wing"  title="Psychological Wing">
+        
+    Psychological Wing          </a>
+  </li>
+
+<li  data-id="1153" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+  <a href="/about/departments/information-technology-wing"  title="Information Technology Wing">
+        
+    Information Technology Wing          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="535" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+  <a href="/contact-us/regional-offices"  class="dropdown-toggle" title="Contact Us">
+        
+    Contact Us          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-4" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-4">
+  <li  data-id="939" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/contact-us/regional-offices"  title="FPSC Offices">
+        
+    FPSC Offices          </a>
+  </li>
+
+<li  data-id="1949" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/contact-us/pension-cell"  title="Nominee of Focal Person for Pension Cell">
+        
+    Pension Cell          </a>
+  </li>
+
+<li  data-id="940" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/contact-us/suggestions-for-improvements"  title="Suggestions For Improvements">
+        
+    Suggestions For Improvements          </a>
+  </li>
+
+<li  data-id="2125" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/contact-us/pio"  title="Public Information Officer">
+        
+    Public Information Officer          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="2118" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+  <a href="https://online.fpsc.gov.pk"  title="Apply Online">
+        
+    Apply Online          </a>
+  </li>
+</ul>
+      </div>
+  </div>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+   </div>
+     </header>
+  <div class="slider-news">
+      <div id="sadam_slider">
+        <div class="region region-sadam-slider">
+  <div id="block-views-slider-view-block" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-slider-view view-id-slider_view view-display-id-block view-dom-id-19cbaa1cb6dcbece2b0ab57b2d23ffbf">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_slider_view-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_slider_view-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_slider_view-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <div>        <span><a href="/content/fpsc-headquarter-islamabad"><div class="main"><div class="main-img"><img typeof="foaf:Image" src="https://www.fpsc.gov.pk/sites/default/files/styles/home_page_slider/public/fpsc.jpg?itok=-klNFWqR" width="1132" height="450" alt="" /></div>
+<div class="main-title">FPSC Headquarter Islamabad</div><div class="main-body"></div></div></a></span>  </div></div>
+</div>
+</div>
+</div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </div>  <!-- /#sidebar-first -->
+
+</div>
+
+
+<div class="clear"></div>
+  <div id="container">
+              
+
+      <div id="head">
+    <div class="region region-header">
+  <div id="block-quicktabs-quicktabs" class="block block-quicktabs">
+
+      
+  <div class="content">
+    <div  id="quicktabs-quicktabs" class="quicktabs-wrapper quicktabs-style-garland"><div class="item-list"><ul class="quicktabs-tabs quicktabs-style-garland"><li class="active first"><a href="/node?qt-quicktabs=0#qt-quicktabs" id="quicktabs-tab-quicktabs-0" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-13 active">Results</a></li>
+<li><a href="/node?qt-quicktabs=1#qt-quicktabs" id="quicktabs-tab-quicktabs-1" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-9 active">GR Notices</a></li>
+<li><a href="/node?qt-quicktabs=2#qt-quicktabs" id="quicktabs-tab-quicktabs-2" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-views-delta-latest-jobs-homepage-block-1 active">Application</a></li>
+<li><a href="/node?qt-quicktabs=3#qt-quicktabs" id="quicktabs-tab-quicktabs-3" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-18 active">Representations</a></li>
+<li><a href="/node?qt-quicktabs=4#qt-quicktabs" id="quicktabs-tab-quicktabs-4" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-19 active">Guidelines</a></li>
+<li><a href="/node?qt-quicktabs=5#qt-quicktabs" id="quicktabs-tab-quicktabs-5" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-20 active">Syllabi</a></li>
+<li><a href="/node?qt-quicktabs=6#qt-quicktabs" id="quicktabs-tab-quicktabs-6" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-21 active">CSS Notices</a></li>
+<li><a href="/node?qt-quicktabs=7#qt-quicktabs" id="quicktabs-tab-quicktabs-7" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-22 active">Interviews</a></li>
+<li class="last"><a href="/node?qt-quicktabs=8#qt-quicktabs" id="quicktabs-tab-quicktabs-8" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-23 active">Admission Certificates</a></li>
+</ul></div><div id="quicktabs-container-quicktabs" class="quicktabs_main quicktabs-style-garland"><div  id="quicktabs-tabpage-quicktabs-0" class="quicktabs-tabpage "><div id="block-block-13" class="block block-block">
+
+      
+  <div class="content">
+    <div class="online-services">
+<div class="ol-item"><span class="ol-item-text"><a href="/results/gr/pre-selection" style="padding-left:50px;">GR Shortlisting for Interview</a></span><span class="ol-item-text" style="margin-left:5%"><a href="/results/gr/recommendations" style="padding-left:50px;">GR Recommendations</a></span><span class="ol-item-text" style="margin-left:5%"><a href="https://online.fpsc.gov.pk/fpsc/gr/reports/gr_marksheets.php" style="padding-left:50px;display:inline-block;">General Recruitment Marks</a></span><span class="ol-item-text"><a href="/results/gr/documents-required" style="padding-left:50px;">GR Documents Required</a></span><span class="ol-item-text" style="margin-left:5%"><a href="/results/gr/written-descriptive-test" style="padding-left:50px;">GR Written Descriptive Tests</a>                        </span></div>
+</div>
+<!-- <span class="ol-item-text" style="margin-left:5%"><a href="https://online.fpsc.gov.pk/index_answer_keys.php" style="padding-left:50px;display:inline-block;">GR Phase 5/2022 Answer Keys<img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;"></a></span> -->  </div>
+  
+</div> <!-- /.block -->
+</div><div  id="quicktabs-tabpage-quicktabs-1" class="quicktabs-tabpage quicktabs-hide"><div id="block-block-9" class="block block-block">
+
+      
+  <div class="content">
+    <div class="online-services">
+<div class="ol-item">
+<!--<span class="ol-item-text"><a href="/results/gr/documents-required" style="padding-left:50px;">GR Documents Required</a></span>--><p><span class="ol-item-text"><a href="/sites/default/files/FPSC_Biodata_Form.pdf" style="padding-left:50px;">GR Biodata Form</a></span><span class="ol-item-text" style="margin-left:5%"><a href="https://online.fpsc.gov.pk/fpsc/gr/edit_update_track.php" style="padding-left:50px;display:inline-block;">Edit Application (Current Advertisement)</a></span></p>
+<!--<span class="ol-item-text" style="margin-left:5%"><a href="https://online.fpsc.gov.pk/index_gr_centre_change.php" style="padding-left:50px;display:inline-block;">Change of Centre-GR Phase I/22<img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;"></a></span>--></div>
+</div>
+  </div>
+  
+</div> <!-- /.block -->
+</div><div  id="quicktabs-tabpage-quicktabs-2" class="quicktabs-tabpage quicktabs-hide"><div id="block-views-latest-jobs-homepage-block-1" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-latest-jobs-homepage view-id-latest_jobs_homepage view-display-id-block_1 view-dom-id-16831b2859e18d73f901a6ef2601917c">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="item-list-view">          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last item-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/jobs/gr/consolidated-advertisement-no-032023">Consolidated Advertisement No. 03/2023</a></span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div><div  id="quicktabs-tabpage-quicktabs-3" class="quicktabs-tabpage quicktabs-hide"><div id="block-block-18" class="block block-block">
+
+      
+  <div class="content">
+    <div class="online-services">
+<div class="ol-item"><span class="ol-item-text"><a href="https://online.fpsc.gov.pk/index_css_marks_recount.php" style="padding-left:50px;">CSS Marks Recounting Request</a></span></div>
+</div>
+  </div>
+  
+</div> <!-- /.block -->
+</div><div  id="quicktabs-tabpage-quicktabs-4" class="quicktabs-tabpage quicktabs-hide"><div id="block-block-19" class="block block-block">
+
+      
+  <div class="content">
+    <div class="online-services">
+<div class="ol-item"><span class="ol-item-text"><a href="https://fpsc.gov.pk/exams/guidelines" style="padding-left:50px;">Applying Online for GR</a></span></div>
+</div>
+  </div>
+  
+</div> <!-- /.block -->
+</div><div  id="quicktabs-tabpage-quicktabs-5" class="quicktabs-tabpage quicktabs-hide"><div id="block-block-20" class="block block-block">
+
+      
+  <div class="content">
+    <div class="online-services">
+<div class="ol-item"><span class="ol-item-text"><a href="https://fpsc.gov.pk/exams/gr/syllabi" style="padding-left:50px;">Syllabi for General Recruitment</a></span></div>
+</div>
+  </div>
+  
+</div> <!-- /.block -->
+</div><div  id="quicktabs-tabpage-quicktabs-6" class="quicktabs-tabpage quicktabs-hide"><div id="block-block-21" class="block block-block">
+
+      
+  <div class="content">
+    <div class="online-services">
+<div class="ol-item"><span class="ol-item-text" style="width: 350px; display:inline-block;"><a href="https://online.fpsc.gov.pk/fpsc/css/user/profile/newaccount.php?a=displayLogin" style="padding-left:50px;">Written CSS Competitive Examination-2023<img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;" /></a></span>
+<!--<span class="ol-item-text" style="margin-left:5%; display:inline-block; width: 220px;"><a href="/sites/default/files/Public_Notice-Webinar_16_November_21.pdf" style="padding-left:50px;">CSS MPT WEBINAR<img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;"></a></span>--></div>
+</div>
+  </div>
+  
+</div> <!-- /.block -->
+</div><div  id="quicktabs-tabpage-quicktabs-7" class="quicktabs-tabpage quicktabs-hide"><div id="block-block-22" class="block block-block">
+
+      
+  <div class="content">
+    <div class="online-services">
+<div class="ol-item"><span class="ol-item-text"><a href="/exams/gr/interview-program" style="padding-left:50px;">Interview Programs</a></span><span class="ol-item-text" style="margin-left:5%"><a href="/exams/gr/interview-program-candidates-list" style="padding-left:50px;display:inline-block;">Interview Programs Candidates Lists <img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;" /></a></span></div>
+</div>
+  </div>
+  
+</div> <!-- /.block -->
+</div><div  id="quicktabs-tabpage-quicktabs-8" class="quicktabs-tabpage quicktabs-hide"><div id="block-block-23" class="block block-block">
+
+      
+  <div class="content">
+    <div class="online-services">
+<div class="ol-item"><span class="ol-item-text" style="width: 460px"><a href="https://online.fpsc.gov.pk/fpsc/gr/reports/fpoe_ac_2023.php" style="padding-left:50px;display:inline-block;">Online Admission Certificates for FPOE-2023 49th CTP<img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;" /></a>         <a href="https://online.fpsc.gov.pk/fpsc/gr/reports/gr_phase1_2023.php" style="padding-left:50px;display:inline-block;">Online Admission Certificates for GR Phase-I/2023<img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;" /></a></span>
+<!--<br><div class="alternate-message"><strong>Currently NO&nbsp;exams are scheduled</strong></div>--></div>
+</div>
+  </div>
+  
+</div> <!-- /.block -->
+</div></div></div>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-accordion-blocks-accordion-for-mobo-devices-1" class="block block-accordion-blocks">
+
+      
+  <div class="content">
+    <div class="accordion_blocks_container">
+        <h2><a href="#">
+          GR Notices        </a></h2>
+    <div>
+      <div class="online-services">
+<div class="ol-item">
+<!--<span class="ol-item-text"><a href="/results/gr/documents-required" style="padding-left:50px;">GR Documents Required</a></span>--><p><span class="ol-item-text"><a href="/sites/default/files/FPSC_Biodata_Form.pdf" style="padding-left:50px;">GR Biodata Form</a></span><span class="ol-item-text" style="margin-left:5%"><a href="https://online.fpsc.gov.pk/fpsc/gr/edit_update_track.php" style="padding-left:50px;display:inline-block;">Edit Application (Current Advertisement)</a></span></p>
+<!--<span class="ol-item-text" style="margin-left:5%"><a href="https://online.fpsc.gov.pk/index_gr_centre_change.php" style="padding-left:50px;display:inline-block;">Change of Centre-GR Phase I/22<img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;"></a></span>--></div>
+</div>
+    </div>
+          <h2><a href="#">
+          Results        </a></h2>
+    <div>
+      <div class="online-services">
+<div class="ol-item"><span class="ol-item-text"><a href="/results/gr/pre-selection" style="padding-left:50px;">GR Shortlisting for Interview</a></span><span class="ol-item-text" style="margin-left:5%"><a href="/results/gr/recommendations" style="padding-left:50px;">GR Recommendations</a></span><span class="ol-item-text" style="margin-left:5%"><a href="https://online.fpsc.gov.pk/fpsc/gr/reports/gr_marksheets.php" style="padding-left:50px;display:inline-block;">General Recruitment Marks</a></span><span class="ol-item-text"><a href="/results/gr/documents-required" style="padding-left:50px;">GR Documents Required</a></span><span class="ol-item-text" style="margin-left:5%"><a href="/results/gr/written-descriptive-test" style="padding-left:50px;">GR Written Descriptive Tests</a>                        </span></div>
+</div>
+<!-- <span class="ol-item-text" style="margin-left:5%"><a href="https://online.fpsc.gov.pk/index_answer_keys.php" style="padding-left:50px;display:inline-block;">GR Phase 5/2022 Answer Keys<img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;"></a></span> -->    </div>
+          <h2><a href="#">
+          Jobs        </a></h2>
+    <div>
+      <div class="view view-latest-jobs-homepage view-id-latest_jobs_homepage view-display-id-block view-dom-id-dd22069a435210e82911aed55e0fe762">
+        
+  
+  
+      <div class="view-content">
+          <ul class="ol-item">          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last ol-item-text">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/jobs/gr/consolidated-advertisement-no-032023">Consolidated Advertisement No. 03/2023</a></span>  </span></li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+          <h2><a href="#">
+          Admission Certificates        </a></h2>
+    <div>
+      <div class="online-services">
+<div class="ol-item"><span class="ol-item-text" style="width: 460px"><a href="https://online.fpsc.gov.pk/fpsc/gr/reports/fpoe_ac_2023.php" style="padding-left:50px;display:inline-block;">Online Admission Certificates for FPOE-2023 49th CTP<img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;" /></a>         <a href="https://online.fpsc.gov.pk/fpsc/gr/reports/gr_phase1_2023.php" style="padding-left:50px;display:inline-block;">Online Admission Certificates for GR Phase-I/2023<img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;" /></a></span>
+<!--<br><div class="alternate-message"><strong>Currently NO&nbsp;exams are scheduled</strong></div>--></div>
+</div>
+    </div>
+          <h2><a href="#">
+          Representations        </a></h2>
+    <div>
+      <div class="online-services">
+<div class="ol-item"><span class="ol-item-text"><a href="https://online.fpsc.gov.pk/index_css_marks_recount.php" style="padding-left:50px;">CSS Marks Recounting Request</a></span></div>
+</div>
+    </div>
+          <h2><a href="#">
+          Guidelines        </a></h2>
+    <div>
+      <div class="online-services">
+<div class="ol-item"><span class="ol-item-text"><a href="https://fpsc.gov.pk/exams/guidelines" style="padding-left:50px;">Applying Online for GR</a></span></div>
+</div>
+    </div>
+          <h2><a href="#">
+          Syllabi        </a></h2>
+    <div>
+      <div class="online-services">
+<div class="ol-item"><span class="ol-item-text"><a href="https://fpsc.gov.pk/exams/gr/syllabi" style="padding-left:50px;">Syllabi for General Recruitment</a></span></div>
+</div>
+    </div>
+          <h2><a href="#">
+          CSS Notices        </a></h2>
+    <div>
+      <div class="online-services">
+<div class="ol-item"><span class="ol-item-text" style="width: 350px; display:inline-block;"><a href="https://online.fpsc.gov.pk/fpsc/css/user/profile/newaccount.php?a=displayLogin" style="padding-left:50px;">Written CSS Competitive Examination-2023<img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;" /></a></span>
+<!--<span class="ol-item-text" style="margin-left:5%; display:inline-block; width: 220px;"><a href="/sites/default/files/Public_Notice-Webinar_16_November_21.pdf" style="padding-left:50px;">CSS MPT WEBINAR<img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;"></a></span>--></div>
+</div>
+    </div>
+          <h2><a href="#">
+          Interviews        </a></h2>
+    <div>
+      <div class="online-services">
+<div class="ol-item"><span class="ol-item-text"><a href="/exams/gr/interview-program" style="padding-left:50px;">Interview Programs</a></span><span class="ol-item-text" style="margin-left:5%"><a href="/exams/gr/interview-program-candidates-list" style="padding-left:50px;display:inline-block;">Interview Programs Candidates Lists <img alt="" src="sites/all/themes/professional_theme/images/new1.gif" style="width: 50px; height: 25px;display:inline-block;" /></a></span></div>
+</div>
+    </div>
+    </div>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+   </div>
+   <div class="clear"></div>
+   <div class="clear"></div>
+<!-- Block regions -->
+  <div class="block-regions">
+      <div id="sadam_left">
+        <div class="region region-sadam-left">
+  <div id="block-block-1" class="block block-block">
+
+        <h2 >Chairman&#039;s Message</h2>
+    
+  <div class="content">
+    <div style="height:500px; position:relative; text-align:justify;">
+<p style="margin: 0 0 0 10px;line-height:20px;"> </p>
+<p style="margin: 0 20px 10px 20px;font-size:15px;">The Federal Public Service Commission plays an important role in ensuring merit based recruitment of enterprising candidates to the civil/federal Services. In doing so, we have tried to catalyze the development of the country and the progress of the nation.</p>
+<p style="margin: 0 20px 10px 20px;font-size:15px;">Over the years, demands on the resources of the Commission have increased manifold. To meet these demands and to keep pace with the dynamic environment, we have focused on optimal utilization of technology, introduction of new means of testing and increasing accessibility of the Commission’s functions without compromising on quality and timeliness.</p>
+<div line-height:50px="" style="height: 50px; background:#777676; position:absolute; width:100%; bottom:0;text-align: center;font-size: 19px;">
+<p><a class="read-more" href="/chairman-message" style="color:white;">Read More...</a></p>
+</div>
+</div>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </div>  <!-- /#sidebar-left -->
+
+      <div id="sadam_middle">
+        <div class="region region-sadam-middle">
+  <div id="block-views-members-view-block-1" class="block block-views">
+
+        <h2 >FPSC Commission</h2>
+    
+  <div class="content">
+    <div class="view view-members-view view-id-members_view view-display-id-block_1 view-dom-id-de5ca12c4c1de63734cff483e0eb5409">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">      <h3>Chairman</h3>
+    <ul class="members-list-view">          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last members-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content">Vacant</span>  </span></li>
+      </ul></div><div class="item-list">      <h3>Members</h3>
+    <ul class="members-list-view">          <li class="views-row views-row-1 views-row-odd views-row-first members-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content">Mr. Fazal Abbas Maken</span>  </span></li>
+          <li class="views-row views-row-2 views-row-even members-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content">Mr. Muhammad Tahir</span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd members-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content">Capt. (R) Shahid Ashraf Tarar</span>  </span></li>
+          <li class="views-row views-row-4 views-row-even views-row-last members-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content">Mr. Khizar Hayat Khan</span>  </span></li>
+      </ul></div><div class="item-list">    <ul class="members-list-view">          <li class="views-row views-row-1 views-row-odd views-row-first members-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content">Mr. Akbar Hussain Durrani (TI)</span>  </span></li>
+          <li class="views-row views-row-2 views-row-even members-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content">Dr. Tanveer Ahmed Qureshi</span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd members-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content">Dr. Akhtar Nazir Warraich</span>  </span></li>
+          <li class="views-row views-row-4 views-row-even members-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content">Khawaja Daud Ahmad</span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd members-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content">Ms. Yasmeen Masood</span>  </span></li>
+          <li class="views-row views-row-6 views-row-even members-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content">Mr. Zaheer Pervaiz Khan</span>  </span></li>
+          <li class="views-row views-row-7 views-row-odd members-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content">Justice (R) Mushtaq Ahmed</span>  </span></li>
+          <li class="views-row views-row-8 views-row-even views-row-last members-row-view">  
+  <span class="views-field views-field-title">        <span class="field-content">Mr. Shoaib Dastgir</span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </div>  <!-- /#sidebar-middle -->
+      <div id="sadam_right">
+        <div class="region region-sadam-right">
+  <div id="block-views-news-list-block" class="block block-views">
+
+        <h2 >Updates/ Web Notices/ Press Releases</h2>
+    
+  <div class="content">
+    <div class="view view-news-list view-id-news_list view-display-id-block view-dom-id-fe7e1916030b5772b505d530f53cfe4a">
+        
+  
+  
+      <div class="view-content">
+      <!-- start scroll -->
+<div class='view view-news_list'><div class='view-content view-content-news_list'><div id='views-ticker-scroller-vertical-news_list' class='views-scroller-vertical-container'><div class='jscroller2_up jscroller2_speed-30 jscroller2_mousemove  '><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/public-notice-consolidated-advertisement-no-32023">Public Notice - Consolidated Advertisement No. 3/2023</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/answer-keys-general-recruitment-phase-i2023">Answer Keys - General Recruitment Phase-I/2023</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/schedule-personal-hearing-post-assistant-deputy-district-public-prosecutor">Schedule Of Personal Hearing For The Post Of Assistant Deputy District Public Prosecutor</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/f4-202022-r-appraising-valuation-officer-descriptive-examination-notice">F.4-20/2022-R Appraising / Valuation Officer, Descriptive Examination Notice</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/public-notice-exclusion-case-no-f1872022-r-gr-exam-phase-i2023">Public  Notice  - Exclusion of Case  No. F.187/2022-R from GR Exam  Phase-I/2023</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/exams/gr/admission-certificates/admission-certificates-general-recruitment-test-phase-12023">Admission Certificates - General Recruitment Test Phase 1/2023</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/jobs/gr/consolidated-advertisement-no-032023">Consolidated Advertisement No. 03/2023</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/exams/gr/interview-programme/f4-1412020-r-director-interview-personal-hearing-postponement-notice">F.4-141/2020-R Director - Interview - Personal Hearing Postponement Notice</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/online-admission-certificates-fpoe-examination-2023-49th-ctp-information-group-ig-postal">Online Admission Certificates for FPOE Examination 2023 (49th CTP) Information Group (IG), Postal Group(PG) and Office Management Group(OMG)</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/interview-schedule-combined-competitive-examination-gilgit-baltistan">Interview Schedule for Combined Competitive Examination Gilgit Baltistan</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/ce-2022-viva-voce-schedule">CE-2022 Viva Voce Schedule</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/pakistan-citizen-portal">Pakistan Citizen Portal</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/observance-implementation-2-disability-quota">Observance &amp; Implementation of 2% Disability Quota</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/ce-2022-psychological-assessment-schedule-0">CE-2022  Psychological Assessment Schedule</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/time-table-fpo-exam-2023-49th-ctp-and-re-examination-failed-probationers-earlier-batches">Time Table FPO Exam-2023 of 49th CTP and Re-Examination of Failed Probationers of Earlier Batches</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/general-recruitment-failure-cases">General Recruitment  Failure Cases</a></p>  </span></div></div><div class='jscroller2_up_endless'><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/public-notice-consolidated-advertisement-no-32023">Public Notice - Consolidated Advertisement No. 3/2023</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/answer-keys-general-recruitment-phase-i2023">Answer Keys - General Recruitment Phase-I/2023</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/schedule-personal-hearing-post-assistant-deputy-district-public-prosecutor">Schedule Of Personal Hearing For The Post Of Assistant Deputy District Public Prosecutor</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/f4-202022-r-appraising-valuation-officer-descriptive-examination-notice">F.4-20/2022-R Appraising / Valuation Officer, Descriptive Examination Notice</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/public-notice-exclusion-case-no-f1872022-r-gr-exam-phase-i2023">Public  Notice  - Exclusion of Case  No. F.187/2022-R from GR Exam  Phase-I/2023</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/exams/gr/admission-certificates/admission-certificates-general-recruitment-test-phase-12023">Admission Certificates - General Recruitment Test Phase 1/2023</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/jobs/gr/consolidated-advertisement-no-032023">Consolidated Advertisement No. 03/2023</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/exams/gr/interview-programme/f4-1412020-r-director-interview-personal-hearing-postponement-notice">F.4-141/2020-R Director - Interview - Personal Hearing Postponement Notice</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/online-admission-certificates-fpoe-examination-2023-49th-ctp-information-group-ig-postal">Online Admission Certificates for FPOE Examination 2023 (49th CTP) Information Group (IG), Postal Group(PG) and Office Management Group(OMG)</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/interview-schedule-combined-competitive-examination-gilgit-baltistan">Interview Schedule for Combined Competitive Examination Gilgit Baltistan</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/ce-2022-viva-voce-schedule">CE-2022 Viva Voce Schedule</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/pakistan-citizen-portal">Pakistan Citizen Portal</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/observance-implementation-2-disability-quota">Observance &amp; Implementation of 2% Disability Quota</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/ce-2022-psychological-assessment-schedule-0">CE-2022  Psychological Assessment Schedule</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/time-table-fpo-exam-2023-49th-ctp-and-re-examination-failed-probationers-earlier-batches">Time Table FPO Exam-2023 of 49th CTP and Re-Examination of Failed Probationers of Earlier Batches</a></p>  </span></div><div class='views-scroller-vertical-item views-scroller-vertical-item-news_list'><span class='views-scroller-vertical-tick-field views-scroller-vertical-tick-field-node_title'>  
+          <p class="views-news-items"><a href="/news/general-recruitment-failure-cases">General Recruitment  Failure Cases</a></p>  </span></div></div></div></div></div>
+<!-- end scroll -->
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/news">
+    View All &gt;  </a>
+</div>
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </div>  <!-- /#sidebar-right -->
+</div>
+    <div class="content-sidebar-wrap">
+ 
+ 
+
+    </div>
+ 
+
+  <div class="clear"></div>
+
+     <div id="foot">
+     <div class="region region-footer">
+  <div id="block-menu-menu-footer-menu" class="block block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/galleries" title="">Gallery</a></li>
+<li class="leaf"><a href="/external-links" title="">External Links</a></li>
+<li class="leaf"><a href="/faqs" title="">FAQ&#039;s</a></li>
+<li class="leaf"><a href="/contact-us/regional-offices" title="">Important Contacts</a></li>
+<li class="leaf"><a href="/tenders" title="">Tenders</a></li>
+<li class="last leaf"><a href="https://twitter.com/officialfpsc" title="Official Twitter Account of FPSC">Official Twitter</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+   </div>
+     </div>
+ <div class="clear"></div>
+<div id="foot_bg">
+     </div>
+  
+
+
+  <div id="footer">
+          <div id="footer-area" class="clearfix">
+                <div class="column"><div class="region region-footer-first">
+  <div id="block-block-24" class="block block-block">
+
+        <h2 >Public Service Commissions</h2>
+    
+  <div class="content">
+    <ul><li><a href="http://ppsc.gop.pk">Punjab Public Service Commission</a></li>
+<li><a href="https://www.kppsc.gov.pk/">Khyber Pakhtunkhwa Public Service Commission</a></li>
+<li><a href="http://spsc.gov.pk/">Sind Public Service Commission</a></li>
+<li><a href="http://bpsc.gob.pk/">Balochistan Public Service Commission</a></li>
+<li><a href="http://www.ajkpsc.gov.pk/home/default.asp">Azad Jammu &amp; Kashmir Public Service Commission</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+                        <div class="column"><div class="region region-footer-second">
+  <div id="block-block-25" class="block block-block">
+
+        <h2 >Contact Us</h2>
+    
+  <div class="content">
+    <p>UAN   : 051-111-000-248</p>
+<p>PABX  : 051-9205075</p>
+<p>FAX     : 051-9203410</p>
+<p>Email    : <a href="mailto:fpsc@fpsc.gov.pk">fpsc@fpsc.gov.pk</a></p>
+<p>Address : FPSC HQs, Aga Khan Road, Sector F-5/1, Islamabad</p>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+                        <div class="column"><div class="region region-footer-third">
+  <div id="block-block-26" class="block block-block">
+
+        <h2 >Find Us</h2>
+    
+  <div class="content">
+    <p><iframe allowfullscreen="" height="200" loading="lazy" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13272.151209653373!2d73.089476!3d33.7338386!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x27cb9d1b45fa4e75!2sFederal%20Public%20Service%20Commission!5e0!3m2!1sen!2s!4v1626168697961!5m2!1sen!2s" style="border:0;" width="350"></iframe></p>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+              </div>
+    
+    <div id="copyright">
+    <!--Remove  -->
+                 IT WING, FPSC - 2018 (Disclaimer: For all references/ purposes, English version of the website will be considered as official) | <a href="#">Terms</a> | <a href="#">Privacy</a> | <a href="/sitemap">SiteMap</a>
+    		        <!--Remove Theme Credit by Setting -->
+    
+    <div class="clear"></div>
+    </div>
+  </div>
+</div>
+  </body>
+</html>
